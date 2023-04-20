@@ -3,5 +3,8 @@
     "docs:dev": "vitepress dev portfolio",
     "docs:build": "vitepress build portfolio",
     "docs:preview": "vitepress preview portfolio"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.73"
   }
 }
