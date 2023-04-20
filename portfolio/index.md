@@ -1,0 +1,21 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "Hi! 👋🏾 I'm Vitor Roque"
+  text: "Backend Developer"
+  tagline: Specialized in distributed systems and observability
+  actions:
+    - theme: alt
+      text: See my work!
+      link: /en/webdec
+
+features:
+  - title: Elixir
+    details: Working with that language since 2021 specializing in distributed systems working with Gen Servers and the most famous Phoenix Framework
+  - title: Go
+    details: I'm using Go for observability and massive backend stuff and is the main language of Oluwoye
+  - title: PHP
+    details: Was my start in web development within all web and database things since 2017 since PHP 5.6 and CRUDs using MySQL
+---
